@@ -1,0 +1,14 @@
+{
+  "name": "ctf-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aurel300",
+  "license": "MIT",
+  "dependencies": {
+    "zulip-js": "^2.0.6"
+  }
+}
